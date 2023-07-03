@@ -1,6 +1,9 @@
 ## Question No. 2
 
-This project provides a C implementation of the Fibonacci sequence calculation using dynamic programming. It utilizes the given `Node` structure to represent arithmetic operations and their operands. 
+This project provides a C implementation of the Fibonacci sequence calculation using 3 methods:
+- Dynamic Programming
+- Recursive approach
+- Memoisation
 
 
 # Development Environment
